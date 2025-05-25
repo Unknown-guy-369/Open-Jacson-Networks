@@ -18,8 +18,8 @@ Visual components and Python
 
 ## Experiment:
 
-# Developed by: Abishek Priyan M
-# Register number: 212224240004
+## Developed by: Abishek Priyan M
+## Register number: 212224240004
 
 ## Program
 ```py
